@@ -9,7 +9,7 @@ Entity GET_PED_IN_VEHICLE_SEAT(Vehicle vehicle, int index);
 ```
 
 Seat indexes:
-* 1 = Driver
+* -1 = Driver
 * 2 = Front Right Passenger
 * 3 = Back Left Passenger
 * 4 = Back Right Passenger
